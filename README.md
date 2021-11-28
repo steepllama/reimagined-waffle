@@ -23,3 +23,8 @@ Teresa Cabell
 
 # GITHUB
 
+GitHub Pages:
+https://steepllama.github.io/reimagined-waffle/
+
+GitHub Repo:
+https://github.com/steepllama/reimagined-waffle
